@@ -2,7 +2,7 @@
 using System.Text;
 
 [assembly: CLSCompliant(true)]
-namespace PotD.X201403
+namespace Axvigs.Aaron.PotD.X201403
 {
     public class X20140306
     {
