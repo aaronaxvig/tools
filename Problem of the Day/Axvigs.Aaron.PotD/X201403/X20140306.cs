@@ -51,8 +51,6 @@ namespace Axvigs.Aaron.PotD.X201403
                 int keyValue = chars.IndexOf(key[i % key.Length]);
                 int index = (messageValue + keyValue) % 26;
 
-                if (index > 25) { index -= 26; }
-
                 encryptedMessage.Append(chars[index]);
             }
 
