@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="X201403\X20140307.cs" />
     <Compile Include="X201403\X20140306.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
