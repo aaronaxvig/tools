@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Axvigs.Aaron.PotD.X201403
 {
-    public class X20140311
+    public static class X20140311
     {
         public static bool IsPalindrome(int number)
         {

@@ -3,10 +3,15 @@ using System.Text;
 
 namespace Axvigs.Aaron.PotD.X201403
 {
-    public class X20140307
+    public static class X20140307
     {
         public static int[][] GenerateResponse(int[][] challenge)
         {
+            if (challenge == null)
+            {
+                throw new ArgumentNullException("challenge");
+            }
+
             int[][] response = new int[challenge.GetLength(0)][];
 
             for (int i = 0; i < challenge.GetLength(0); i++)
