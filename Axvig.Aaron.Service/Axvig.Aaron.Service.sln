@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axvig.Aaron.Service", "Axvig.Aaron.Service\Axvig.Aaron.Service.csproj", "{14309D1E-79E9-4484-9BBF-6FD8BFF94186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Axvig.Aaron.Service", "Test.Axvig.Aaron.Service\Test.Axvig.Aaron.Service.csproj", "{62D58281-DEF7-4AC0-ACF7-EB032D245D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14309D1E-79E9-4484-9BBF-6FD8BFF94186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14309D1E-79E9-4484-9BBF-6FD8BFF94186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14309D1E-79E9-4484-9BBF-6FD8BFF94186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14309D1E-79E9-4484-9BBF-6FD8BFF94186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D58281-DEF7-4AC0-ACF7-EB032D245D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D58281-DEF7-4AC0-ACF7-EB032D245D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D58281-DEF7-4AC0-ACF7-EB032D245D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D58281-DEF7-4AC0-ACF7-EB032D245D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
