@@ -52,6 +52,7 @@
     <Compile Include="X201403\X20140307.cs" />
     <Compile Include="X201403\X20140306.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="X201502\X20150210.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

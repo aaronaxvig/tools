@@ -58,6 +58,7 @@
     <Compile Include="X201403\X20140311Tests.cs" />
     <Compile Include="X201403\X20140307Tests.cs" />
     <Compile Include="X201403\X20140306Tests.cs" />
+    <Compile Include="X201502\X20150210Tests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Axvigs.Aaron.PotD\Axvigs.Aaron.PotD.csproj">
